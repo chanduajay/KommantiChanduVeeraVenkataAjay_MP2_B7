@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EMS.API</name>
+    </assembly>
+    <members>
+        <member name="T:EMS.API.Controllers.AuthController">
+            <summary>
+            Handles user registration and login.
+            All endpoints are decorated with [AllowAnonymous] — no JWT token required.
+            Passwords are hashed with BCrypt (workFactor: 12) before storage.
+            On successful login a signed JWT token is returned containing the username,
+            role, and expiry claims.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.AuthController.#ctor(EMS.API.Interfaces.IAuthService)">
+            <summary>Injects the auth service via constructor injection.</summary>
+        </member>
+        <member name="M:EMS.API.Controllers.AuthController.Register(EMS.API.DTOs.RegisterRequestDto)">
+            <summary>
+            POST /api/auth/register
+            Registers a new user account.
+            Accepts: { username, password, role? }
+            Role defaults to "Viewer" if omitted. Valid values: "Admin" or "Viewer".
+            Passwords are hashed with BCrypt (12 rounds) — never stored in plain text.
+            Returns 201 Created on success.
+            Returns 409 Conflict with a descriptive message if the username is already taken.
+            Returns 400 Bad Request if validation fails (e.g. password shorter than 6 chars).
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.AuthController.Login(EMS.API.DTOs.LoginRequestDto)">
+            <summary>
+            POST /api/auth/login
+            Authenticates a user and returns a signed JWT token.
+            Accepts: { username, password }
+            BCrypt.Verify() is used to compare the submitted password against the stored hash.
+            Returns 200 OK with { success, token, username, role, message } on success.
+            Returns 401 Unauthorized with { success: false, message } on failure.
+            The error message deliberately does not reveal which field is wrong (security best practice).
+            </summary>
+        </member>
+        <member name="T:EMS.API.Controllers.EmployeesController">
+            <summary>
+            Manages all Employee CRUD operations, the dashboard endpoint, and server-side
+            search/filter/sort/pagination. All endpoints require a valid JWT Bearer token.
+            Write operations (POST, PUT, DELETE) are restricted to the Admin role.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.#ctor(EMS.API.Interfaces.IEmployeeService)">
+            <summary>Injects the employee service via constructor injection.</summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.GetDashboard">
+            <summary>
+            GET /api/employees/dashboard
+            Returns all KPI metrics (total, active, inactive, departments),
+            department breakdown with percentages, and the last 5 employees added.
+            Computed via SQL COUNT() and GROUP BY — no client-side aggregation.
+            Accessible by both Admin and Viewer roles.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.GetAll(EMS.API.DTOs.EmployeeListQueryDto)">
+            <summary>
+            GET /api/employees?search=&amp;department=&amp;status=&amp;sortField=id&amp;sortDir=asc&amp;page=1&amp;pageSize=15
+            Returns a paginated, filtered, and sorted list of employees.
+            All filtering and sorting executes in SQL — no JavaScript processing.
+            Search uses SQL LIKE on (FirstName + ' ' + LastName) and Email.
+            Accessible by both Admin and Viewer roles.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.GetById(System.Int32)">
+            <summary>
+            GET /api/employees/{id}
+            Returns a single employee record by primary key.
+            Returns 404 Not Found if the employee does not exist.
+            Accessible by both Admin and Viewer roles.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.Create(EMS.API.DTOs.EmployeeRequestDto)">
+            <summary>
+            POST /api/employees
+            Creates a new employee record. Admin role required.
+            Validates all fields via Data Annotations on EmployeeRequestDto.
+            Returns 201 Created with the new employee object on success.
+            Returns 409 Conflict if the email address already belongs to another employee.
+            Returns 403 Forbidden if called with a Viewer JWT.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.Update(System.Int32,EMS.API.DTOs.EmployeeRequestDto)">
+            <summary>
+            PUT /api/employees/{id}
+            Updates an existing employee record. Admin role required.
+            Allows the same email to be resubmitted (the current employee is excluded
+            from the uniqueness check so edit-without-email-change works correctly).
+            Returns 200 OK with the updated employee object on success.
+            Returns 404 if the employee does not exist.
+            Returns 409 Conflict if the email belongs to a different employee.
+            Returns 403 Forbidden if called with a Viewer JWT.
+            </summary>
+        </member>
+        <member name="M:EMS.API.Controllers.EmployeesController.Delete(System.Int32)">
+            <summary>
+            DELETE /api/employees/{id}
+            Permanently removes an employee record by primary key. Admin role required.
+            Returns 200 OK with a confirmation message on success.
+            Returns 404 Not Found if the employee does not exist.
+            Returns 403 Forbidden if called with a Viewer JWT.
+            </summary>
+        </member>
+        <member name="T:EMS.API.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:EMS.API.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EMS.API.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EMS.API.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

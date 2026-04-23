@@ -1,0 +1,469 @@
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_EMS.Tests
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.deps.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.runtimeconfig.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.staticwebassets.endpoints.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.exe
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.deps.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.runtimeconfig.json
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.pdb
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.pdb
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.xml
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.AssemblyReference.cache
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfoInputs.cache
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfo.cs
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.Up2Date
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\refint\EMS.Tests.dll
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.pdb
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.genruntimeconfig.cache
+C:\Users\navee\Downloads\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\ref\EMS.Tests.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_EMS.Tests
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.Development.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.staticwebassets.endpoints.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.exe
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.api.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.core.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.deps.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.runtimeconfig.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.exe
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.deps.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.runtimeconfig.json
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.pdb
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Core.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Identity.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Moq.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.framework.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.pdb
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.xml
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.AssemblyReference.cache
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfoInputs.cache
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfo.cs
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.CoreCompileInputs.cache
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.Up2Date
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\refint\EMS.Tests.dll
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.pdb
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.genruntimeconfig.cache
+D:\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\ref\EMS.Tests.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_EMS.Tests
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.Development.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\appsettings.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.staticwebassets.endpoints.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.exe
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testhost.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.api.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.engine.core.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.deps.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.runtimeconfig.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\dotnet-tools.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.exe
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.deps.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.runtimeconfig.json
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.Tests.pdb
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Core.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Azure.Identity.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Moq.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\nunit.framework.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.pdb
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\bin\Debug\net8.0\EMS.API.xml
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.AssemblyReference.cache
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfoInputs.cache
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.AssemblyInfo.cs
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.CoreCompileInputs.cache
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.csproj.Up2Date
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\refint\EMS.Tests.dll
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.pdb
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\EMS.Tests.genruntimeconfig.cache
+D:\MIni project 2\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\EMS.Tests\obj\Debug\net8.0\ref\EMS.Tests.dll

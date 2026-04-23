@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EMS Dashboard</title>
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+    <!-- ══════════════════════════════════════════════════════════
+         EMPLOYEE MANAGEMENT SYSTEM — Mini Project 2
+         Kommanti Chandu Veera Venkata Ajay — Batch 7 .Net With Python
+    ══════════════════════════════════════════════════════════════ -->
+    <!-- ══════════════════════════════════════════════════════════
+         NAVBAR (shown only when logged in)
+    ══════════════════════════════════════════════════════════════ -->
+    <nav id="main-navbar" class="navbar navbar-expand-lg fixed-top d-none">
+        <div class="container-fluid px-3">
+            <a class="navbar-brand" href="#">
+                <span class="brand-icon"><i class="bi bi-people-fill"></i></span>
+                EMS Dashboard
+            </a>
+            <!-- Hamburger toggler — visible on mobile -->
+            <button class="navbar-toggler navbar-toggler-dark" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                    aria-controls="navbarContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <!-- Left: nav links -->
+                <ul class="navbar-nav me-auto ms-lg-3 mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-dashboard" href="#">
+                            <i class="bi bi-speedometer2 me-1"></i>Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-employees" href="#">
+                            <i class="bi bi-people me-1"></i>Employees
+                        </a>
+                    </li>
+                </ul>
+                <!-- Right: Add Employee + user info + logout -->
+                <!-- On mobile these stack vertically inside the open hamburger menu -->
+                <div class="navbar-right-group">
+                    <button class="btn btn-add-nav" id="btn-add-employee-nav">
+                        <i class="bi bi-plus-lg me-1"></i>Add Employee
+                    </button>
+                    <span class="nav-user-info">
+                        <i class="bi bi-person-circle"></i>
+                        <span id="nav-current-user">admin</span>
+                        <span id="nav-role-badge" class="badge badge-role-admin">Admin</span>
+                    </span>
+                    <button class="btn btn-logout-nav" id="btn-logout">
+                        <i class="bi bi-box-arrow-right me-1"></i>Logout
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ══════════════════════════════════════════════════════════
+         VIEW: SIGNUP
+    ══════════════════════════════════════════════════════════════ -->
+    <div id="view-signup" class="auth-view" style="display:none;">
+        <div class="auth-card">
+            <div class="auth-logo"><i class="bi bi-person-plus-fill"></i></div>
+            <p class="text-center auth-app-name mb-1">
+                <i class="bi bi-people-fill me-1"></i>Employee Management System
+            </p>
+            <h2 class="text-center">Create Account</h2>
+            <p class="text-center subtitle mb-4">Register a new admin account</p>
+
+            <form id="form-signup" novalidate>
+                <div class="mb-3">
+                    <label class="form-label">Username</label>
+                    <div class="auth-input-group">
+                        <i class="bi bi-person input-icon"></i>
+                        <input type="text" id="signup-username" class="form-control"
+                               placeholder="admin" autocomplete="username" />
+                    </div>
+                    <div class="field-error signup-field-error" id="err-signup-username"></div>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Password</label>
+                    <div class="auth-input-group">
+                        <i class="bi bi-lock input-icon"></i>
+                        <input type="password" id="signup-password" class="form-control"
+                               placeholder="••••••••" autocomplete="new-password" />
+                    </div>
+                    <div class="field-error signup-field-error" id="err-signup-password"></div>
+                </div>
+                <div class="mb-4">
+                    <label class="form-label">Confirm Password</label>
+                    <div class="auth-input-group">
+                        <i class="bi bi-lock-fill input-icon"></i>
+                        <input type="password" id="signup-confirm" class="form-control"
+                               placeholder="••••••••" autocomplete="new-password" />
+                    </div>
+                    <div class="field-error signup-field-error" id="err-signup-confirm"></div>
+                </div>
+
+                <div class="alert alert-danger py-2 small" id="signup-error" style="display:none;"></div>
+
+                <button type="submit" class="btn btn-auth">
+                    <i class="bi bi-person-check me-2"></i>Create Account
+                </button>
+            </form>
+
+            <p class="text-center mt-3 mb-0 small text-secondary">
+                Already have an account? <span class="auth-link" id="btn-go-login">Login</span>
+            </p>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         VIEW: LOGIN
+    ══════════════════════════════════════════════════════════════ -->
+    <div id="view-login" class="auth-view" style="display:flex;">
+        <div class="auth-card">
+            <div class="auth-logo"><i class="bi bi-shield-lock-fill"></i></div>
+            <p class="text-center auth-app-name mb-1">
+                <i class="bi bi-people-fill me-1"></i>Employee Management System
+            </p>
+            <h2 class="text-center">Welcome Back</h2>
+            <p class="text-center subtitle mb-4">Sign in to your account</p>
+
+            <form id="form-login" novalidate>
+                <div class="mb-3">
+                    <label class="form-label">Username</label>
+                    <div class="auth-input-group">
+                        <i class="bi bi-person input-icon"></i>
+                        <input type="text" id="login-username" class="form-control"
+                               placeholder="admin" autocomplete="username" />
+                    </div>
+                    <div class="field-error login-field-error" id="err-login-username"></div>
+                </div>
+                <div class="mb-4">
+                    <label class="form-label">Password</label>
+                    <div class="auth-input-group">
+                        <i class="bi bi-lock input-icon"></i>
+                        <input type="password" id="login-password" class="form-control"
+                               placeholder="••••••••" autocomplete="current-password" />
+                    </div>
+                    <div class="field-error login-field-error" id="err-login-password"></div>
+                </div>
+
+                <div class="alert alert-danger py-2 small" id="login-error" style="display:none;"></div>
+
+                <button type="submit" class="btn btn-auth">
+                    <i class="bi bi-box-arrow-in-right me-2"></i>Login
+                </button>
+            </form>
+
+            <p class="text-center mt-3 mb-1 small text-secondary">
+                Don't have an account? <span class="auth-link" id="btn-go-signup">Sign up</span>
+            </p>
+            <p class="text-center small text-muted">
+                Admin: <strong>admin / admin123</strong> &nbsp;|&nbsp;
+                Viewer: <strong>viewer / viewer123</strong>
+            </p>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         VIEW: APP (Dashboard + Employee List)
+    ══════════════════════════════════════════════════════════════ -->
+    <div id="view-app" style="display:none;">
+        <div class="container-fluid px-3 px-md-4 py-4">
+
+            <!-- ─── DASHBOARD SECTION ──────────────────────────────────────── -->
+            <section id="section-dashboard" style="display:none;">
+                <div class="d-flex justify-content-between align-items-start section-header mb-4">
+                    <div>
+                        <h2><i class="bi bi-speedometer2 me-2 text-primary"></i>Dashboard</h2>
+                        <p class="sub mb-0">Welcome back! Here's your workforce overview.</p>
+                    </div>
+                    <button class="btn btn-add-nav" id="btn-add-emp-dashboard">
+                        <i class="bi bi-plus-lg me-1"></i>Add Employee
+                    </button>
+                </div>
+
+                <!-- KPI Cards -->
+                <div class="row g-3 mb-4">
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="kpi-card">
+                            <div class="kpi-icon kpi-total"><i class="bi bi-people-fill"></i></div>
+                            <div>
+                                <div class="kpi-value" id="kpi-total">0</div>
+                                <div class="kpi-label">Total Employees</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="kpi-card">
+                            <div class="kpi-icon kpi-active-bg"><i class="bi bi-person-check-fill"></i></div>
+                            <div>
+                                <div class="kpi-value" id="kpi-active">0</div>
+                                <div class="kpi-label">Active</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="kpi-card">
+                            <div class="kpi-icon kpi-inactive"><i class="bi bi-person-dash-fill"></i></div>
+                            <div>
+                                <div class="kpi-value" id="kpi-inactive">0</div>
+                                <div class="kpi-label">Inactive</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="kpi-card">
+                            <div class="kpi-icon kpi-dept"><i class="bi bi-diagram-3-fill"></i></div>
+                            <div>
+                                <div class="kpi-value" id="kpi-departments">0</div>
+                                <div class="kpi-label">Departments</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bottom panels -->
+                <div class="row g-3">
+                    <!-- Department Breakdown -->
+                    <div class="col-12 col-md-6">
+                        <div class="panel-card">
+                            <div class="panel-title">
+                                <i class="bi bi-bar-chart-fill text-primary"></i> Department Breakdown
+                            </div>
+                            <div class="table-responsive">
+                                <table class="table table-sm mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th class="text-muted small">Department</th>
+                                            <th class="text-muted small text-center">Count</th>
+                                            <th class="text-muted small">Distribution</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="dept-breakdown-body">
+                                        <tr><td colspan="3" class="text-center text-muted">Loading...</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Recent Employees -->
+                    <div class="col-12 col-md-6">
+                        <div class="panel-card">
+                            <div class="panel-title d-flex justify-content-between">
+                                <span><i class="bi bi-clock-history text-primary"></i> Recent Employees</span>
+                                <span class="badge bg-light text-secondary fw-normal">Last 5 Added</span>
+                            </div>
+                            <div id="recent-employees-list">
+                                <div class="text-muted text-center p-3">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ─── EMPLOYEE LIST SECTION ───────────────────────────────────── -->
+            <section id="section-employees" style="display:none;">
+                <div class="d-flex justify-content-between align-items-start section-header mb-3">
+                    <div>
+                        <h2><i class="bi bi-people me-2 text-primary"></i>Employees</h2>
+                        <p class="sub mb-0">Manage, search, filter and sort your workforce.</p>
+                    </div>
+                    <button class="btn btn-add-nav" id="btn-add-employee-page">
+                        <i class="bi bi-plus-lg me-1"></i>Add Employee
+                    </button>
+                </div>
+
+                <!-- Viewer read-only notice bar (NEW in MP2) — hidden for Admin -->
+                <div id="viewer-notice"
+                     class="alert alert-info d-flex align-items-center gap-2 py-2 mb-3"
+                     style="display:none !important;">
+                    <i class="bi bi-info-circle-fill"></i>
+                    <span>
+                        You have <strong>read-only access</strong>.
+                        Add, edit, and delete operations are disabled for your role.
+                    </span>
+                </div>
+
+                <!-- Toolbar -->
+                <div class="employees-toolbar">
+                    <div class="row g-2 align-items-center">
+                        <div class="col-12 col-md-4">
+                            <div class="search-wrap">
+                                <i class="bi bi-search"></i>
+                                <input type="text" id="search-input" class="form-control form-control-sm"
+                                       placeholder="Search by name or email..." />
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3">
+                            <select id="filter-department" class="form-select form-select-sm">
+                                <option value="all">All Departments</option>
+                            </select>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-3">
+                            <div class="d-flex gap-1 w-100">
+                                <button class="btn-status-filter active flex-fill text-center" data-status="all">All</button>
+                                <button class="btn-status-filter flex-fill text-center" data-status="Active">Active</button>
+                                <button class="btn-status-filter flex-fill text-center" data-status="Inactive">Inactive</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-2 text-md-end">
+                            <span class="record-count" id="employee-count-label">Showing 0 employees</span>
+                            <span id="employee-count-total" data-total="0" style="display:none;"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Employee Table -->
+                <div class="table-card">
+                    <div class="table-responsive">
+                        <table class="table mb-0" id="employee-table">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>AVATAR</th>
+                                    <th class="sort-header" data-sort="name">NAME <span class="sort-icon">↕</span></th>
+                                    <th>EMAIL</th>
+                                    <th>DEPARTMENT</th>
+                                    <th>DESIGNATION</th>
+                                    <th class="sort-header" data-sort="salary">SALARY <span class="sort-icon">↕</span></th>
+                                    <th class="sort-header" data-sort="joinDate">JOIN DATE <span class="sort-icon">↕</span></th>
+                                    <th>STATUS</th>
+                                    <th>ACTIONS</th>
+                                </tr>
+                            </thead>
+                            <tbody id="employee-table-body">
+                                <tr><td colspan="10" class="text-center text-muted py-4">Loading...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Pagination bar (NEW in MP2) -->
+                <div class="d-flex justify-content-center mt-3" id="pagination-container"></div>
+
+            </section>
+
+        </div><!-- /container-fluid -->
+    </div><!-- /view-app -->
+    <!-- ══════════════════════════════════════════════════════════
+         MODAL: ADD / EDIT EMPLOYEE
+    ══════════════════════════════════════════════════════════════ -->
+    <div class="modal fade" id="modal-add-edit" tabindex="-1"
+         aria-labelledby="modal-emp-title" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modal-emp-title">Add Employee</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="form-add-edit" novalidate>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label class="form-label">First Name <span class="text-danger">*</span></label>
+                                <input type="text" id="inp-firstName" class="form-control" placeholder="Enter first name" />
+                                <div class="field-error" id="err-firstName"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Last Name <span class="text-danger">*</span></label>
+                                <input type="text" id="inp-lastName" class="form-control" placeholder="Enter last name" />
+                                <div class="field-error" id="err-lastName"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Email Address <span class="text-danger">*</span></label>
+                                <input type="email" id="inp-email" class="form-control" placeholder="email@example.com" />
+                                <div class="field-error" id="err-email"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Phone Number <span class="text-danger">*</span></label>
+                                <input type="text" id="inp-phone" class="form-control"
+                                       placeholder="10-digit number" maxlength="10" />
+                                <div class="field-error" id="err-phone"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Department <span class="text-danger">*</span></label>
+                                <select id="inp-department" class="form-select">
+                                    <option value="">- Select Department -</option>
+                                    <option value="Engineering">Engineering</option>
+                                    <option value="Marketing">Marketing</option>
+                                    <option value="HR">HR</option>
+                                    <option value="Finance">Finance</option>
+                                    <option value="Operations">Operations</option>
+                                </select>
+                                <div class="field-error" id="err-department"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Designation <span class="text-danger">*</span></label>
+                                <input type="text" id="inp-designation" class="form-control"
+                                       placeholder="e.g. Software Engineer" />
+                                <div class="field-error" id="err-designation"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Annual Salary (₹) <span class="text-danger">*</span></label>
+                                <input type="number" id="inp-salary" class="form-control"
+                                       placeholder="e.g. 750000" min="1" />
+                                <div class="field-error" id="err-salary"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Join Date <span class="text-danger">*</span></label>
+                                <input type="date" id="inp-joinDate" class="form-control" />
+                                <div class="field-error" id="err-joinDate"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="form-label">Status <span class="text-danger">*</span></label>
+                                <select id="inp-status" class="form-select">
+                                    <option value="">- Select Status -</option>
+                                    <option value="Active">Active</option>
+                                    <option value="Inactive">Inactive</option>
+                                </select>
+                                <div class="field-error" id="err-status"></div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="btn-save-employee" data-mode="add">
+                        <i class="bi bi-floppy me-1"></i>Save Employee
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         MODAL: VIEW EMPLOYEE DETAILS
+    ══════════════════════════════════════════════════════════════ -->
+    <div class="modal fade" id="modal-view" tabindex="-1"
+         aria-labelledby="view-modal-label" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content view-modal-content">
+
+                <!-- Dark blue header -->
+                <div class="modal-header view-modal-header">
+                    <h5 class="modal-title" id="view-modal-label">
+                        <i class="bi bi-person-lines-fill me-2"></i>Employee Details
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <!-- Light gray body -->
+                <div class="modal-body view-modal-body">
+
+                    <!-- Large centred avatar above name -->
+                    <div class="text-center view-modal-hero">
+                        <div id="view-modal-avatar" class="emp-avatar view-modal-avatar mx-auto mb-3">NA</div>
+                        <h4 class="fw-bold mb-2" id="view-modal-name">—</h4>
+                        <div id="view-modal-dept" class="mb-1">—</div>
+                    </div>
+
+                    <!-- Detail grid -->
+                    <div class="view-modal-details">
+                        <div class="view-detail-row">
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">EMAIL</div>
+                                <div class="view-detail-value" id="view-modal-email">—</div>
+                            </div>
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">PHONE</div>
+                                <div class="view-detail-value" id="view-modal-phone">—</div>
+                            </div>
+                        </div>
+                        <div class="view-detail-row">
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">DESIGNATION</div>
+                                <div class="view-detail-value" id="view-modal-designation">—</div>
+                            </div>
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">ANNUAL SALARY</div>
+                                <div class="view-detail-value view-salary" id="view-modal-salary">—</div>
+                            </div>
+                        </div>
+                        <div class="view-detail-row">
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">JOIN DATE</div>
+                                <div class="view-detail-value" id="view-modal-joinDate">—</div>
+                            </div>
+                            <div class="view-detail-col">
+                                <div class="view-detail-label">STATUS</div>
+                                <div id="view-modal-status">—</div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="modal-footer view-modal-footer">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         MODAL: DELETE CONFIRMATION
+    ══════════════════════════════════════════════════════════════ -->
+    <div class="modal fade" id="modal-delete" tabindex="-1"
+         aria-labelledby="delete-modal-label" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+            <div class="modal-content">
+                <div class="modal-header border-0 pb-0">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center pt-0">
+                    <div class="delete-icon-wrap"><i class="bi bi-person-x-fill"></i></div>
+                    <h5 class="fw-bold mb-1">Confirm Delete</h5>
+                    <p class="text-muted small mb-1">Are you sure you want to delete</p>
+                    <p class="fw-semibold mb-2" id="delete-modal-name">—</p>
+                    <p class="text-muted small">This action cannot be undone.</p>
+                </div>
+                <div class="modal-footer border-0 pt-0 d-flex gap-2 justify-content-center">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" id="btn-confirm-delete">
+                        <i class="bi bi-trash me-1"></i>Yes, Delete
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         TOAST CONTAINER
+    ══════════════════════════════════════════════════════════════ -->
+    <div id="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+    <!-- Loading spinner overlay -->
+    <div id="loading-spinner" style="display:none; position:fixed; inset:0; background:rgba(255,255,255,.6);
+     z-index:9999; display:none; align-items:center; justify-content:center;">
+        <div class="spinner-border text-primary" role="status" style="width:3rem;height:3rem;">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════════
+         SCRIPTS — load order is critical
+    ══════════════════════════════════════════════════════════════ -->
+    <!-- jQuery -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <!-- Bootstrap 5 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- config.js MUST be first — declares API_BASE_URL used by storageService -->
+    <script src="js/config.js"></script>
+    <!-- storageService.js MUST be before authService (authService calls storageService) -->
+    <script src="js/storageService.js"></script>
+    <!-- authService MUST be before employeeService (storageService._headers calls authService) -->
+    <script src="js/authService.js"></script>
+    <script src="js/employeeService.js"></script>
+    <script src="js/validationService.js"></script>
+    <script src="js/dashboardService.js"></script>
+    <script src="js/uiService.js"></script>
+    <!-- app.js MUST be last — it calls all other services -->
+    <script src="js/app.js"></script>
+
+</body>
+</html>
