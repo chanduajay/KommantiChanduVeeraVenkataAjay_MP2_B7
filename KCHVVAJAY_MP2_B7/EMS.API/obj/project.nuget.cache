@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xHQDxwE43Xo=",
+  "dgSpecHash": "jr6WIuShO5E=",
   "success": true,
-  "projectFilePath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj",
+  "projectFilePath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\navee\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\navee\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

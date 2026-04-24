@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.Tests\\EMS.Tests.csproj": {}
+    "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.Tests\\EMS.Tests.csproj": {}
   },
   "projects": {
-    "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj": {
+    "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj",
+        "projectUniqueName": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj",
         "projectName": "EMS.API",
-        "projectPath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj",
+        "projectPath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\obj\\",
+        "outputPath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,14 +106,14 @@
         }
       }
     },
-    "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.Tests\\EMS.Tests.csproj": {
+    "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.Tests\\EMS.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.Tests\\EMS.Tests.csproj",
+        "projectUniqueName": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.Tests\\EMS.Tests.csproj",
         "projectName": "EMS.Tests",
-        "projectPath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.Tests\\EMS.Tests.csproj",
+        "projectPath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.Tests\\EMS.Tests.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.Tests\\obj\\",
+        "outputPath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj": {
-                "projectPath": "D:\\MIni project 2\\Batch7_.Net-With-Python_Kommanti-Chandu-Veera-Venkata-Ajay_EmployeeManagementSystem_MiniProject_2\\EMS.API\\EMS.API.csproj"
+              "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj": {
+                "projectPath": "D:\\min_project_2\\KCHVVAJAY_MP2_B7\\EMS.API\\EMS.API.csproj"
               }
             }
           }
