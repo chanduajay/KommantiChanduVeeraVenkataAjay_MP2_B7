@@ -82,13 +82,6 @@ Open `EMS.sln` in Visual Studio 2022.
 In **Package Manager Console** (Tools → NuGet Package Manager → Package Manager Console),
 make sure **Default Project** is set to `EMS.API`:
 
-(instance: `LAPTOP-MLTJVSB2\SQLSERVER`) - Default instance used in this project: `LAPTOP-MLTJVSB2\SQLSERVER`
-- ⚠️ You must update this to your own SQL Server instance
-- ### ⚙️ Configure Connection String
-
-Open `EMS.API/appsettings.json` and verify the connection string: `"DefaultConnection": "Server=LAPTOP-MLTJVSB2\\SQLSERVER;Database=EMS;Trusted_Connection=True;TrustServerCertificate=True;"`. 
-⚠️ Make sure to replace `LAPTOP-MLTJVSB2\\SQLSERVER` with your own SQL Server instance name. If you are using a default instance, set it as `Server=YourMachineName`, and if you are using a named instance like SQLEXPRESS, set it as `Server=YourMachineName\\SQLEXPRESS`. Example: `"DefaultConnection": "Server=DESKTOP-12345\\SQLEXPRESS;Database=EMS;Trusted_Connection=True;TrustServerCertificate=True;"`.
-
 ```
 Add-Migration InitialCreate
 Update-Database
